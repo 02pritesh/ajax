@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: coral;
+}
+
+.load-data{
+    background-color: cyan;
+    height: 50px;
+}
